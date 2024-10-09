@@ -78,7 +78,7 @@ This project is an assignment submission management system built with Node.js, E
 
 To easily test the APIs, import the following Postman collection and environment:
 
-- [Assignment Management Collection](/GrowthX-Assignment-management.postman_collection.json)
+- [Assignment Management Collection](https://raw.githubusercontent.com/saran-mani/growthx-intern-assignment/refs/heads/main/GrowthX-Assignment-management.postman_collection.json)
 - [Assignment Environment](/GrowthXAssignment.postman_environment.json)
 
 #### Admin
