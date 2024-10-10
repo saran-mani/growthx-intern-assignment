@@ -80,6 +80,13 @@ To easily test the APIs, import the following Postman collection and environment
 
 - [Assignment Management Collection](/GrowthX-Assignment-management.postman_collection.json)
 - [Assignment Environment](/GrowthXAssignment.postman_environment.json)
+## Important notes
+
+#### Need to set Authorization token in header for user and admin (you can get the  token by login with user and admin credentials)
+
+Please refer the below images
+- ![alt header for admin](./setup/adminheader.png)
+- ![alt header for user](./setup/adminheader.png)
 
 #### Admin
 
